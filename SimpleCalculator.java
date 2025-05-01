@@ -20,7 +20,8 @@ public class SimpleCalculator {
         // Step 3: Get two numbers from the user
         
         // Step 4: Perform the operation based on the user's choice
-        
+        string SomethingSomething;
+        int AnotherThing;
         // Step 5: Output the result to the user
     }
 }
